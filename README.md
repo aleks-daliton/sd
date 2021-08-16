@@ -2,6 +2,14 @@
 
     ####################################################################################################
     #
+    # The sd format is designed to store configuration and service data. Text data written according
+    # to the rules of the format can be converted into the Python dict format with the help of the 
+    # available library. After working with the data or its comments, using the sd-format library, 
+    # you can save the data again in .sd format without losing both the comments to the variables and
+    # the comments and descriptions to the file itself.
+    #
+    #
+    #
     # The basic concepts and opportunities incorporated in the development of the format:
     #     Maximum accessibility for the perception of complex structured data
     #     Simple and intuitive syntactic rules
@@ -140,6 +148,14 @@
 
 
 # Python библиотека для работы с .sd форматом, предназначенным для записи служебных и конфигурационных данных (Ru)
+    
+    ####################################################################################################
+    #
+    # Формат sd предназначен для хранения конфигурационных и служебных данных. Данные в текстовом виде, записанные по правилам формата,
+    # с помощью имеющейся библиотеки можно приобразовать в формат Python dict. После работы с данными или комментариями к ним, 
+    # с помощью библиотеки sd-format, можно вновь сохранить данные в формате .sd, не потеряв как комментарии к переменным,
+    # так и комментарии и описания к самому файлу.
+    #
     # Основные концепции и возможности, заложенные при разработке формата:
     #     Максимальная доступность для восприятия сложных по структуре данных
     #     Простые и интуитивно понятные синтаксические правила
@@ -161,6 +177,9 @@
     # через вызов функции:
     #     from sd_format import sd_info
     #     sd_info()
+    #
+    ####################################################################################################
+   
 
     # Пример записи данных в формате .sd:
         # some comment for main_key_1
