@@ -1,4 +1,4 @@
-# Library for working with the .sd format designed to store configuration and service data (En)
+# Python library for working with the .sd format designed to store configuration and service data (En)
 
     ####################################################################################################
     #
@@ -159,7 +159,7 @@
 Translated with www.DeepL.com/Translator (free version)
 
 
-# Библиотека для работы с .sd форматом, предназначенным для записи служебных и конфигурационных данных (Ru)
+# Python библиотека для работы с .sd форматом, предназначенным для записи служебных и конфигурационных данных (Ru)
 
     ####################################################################################################
     #
