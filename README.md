@@ -149,6 +149,7 @@
     #    The recommended number of characters for all list items for each key is 100
     #    For single-line entries, a total of 100 characters or less is recommended after an equal sign
     #    Values that contain spaces or commas must be enclosed in triple quotes
+    #    Values ending with a colon must be enclosed in triple quotes
     #    Values in triple quotes are recommended to be either the only or the last
     #    Only a multi-line entry of a single value is possible for a first level key
     #    For a multi-line entry of a single value you need to use framing lines with triple quotes
@@ -311,6 +312,7 @@ Translated with www.DeepL.com/Translator (free version)
     #    Рекомендуемое количество знаков всех элементов списка для каждого ключа составляет 100 знаков
     #    Для однострочной записи, после знака равно рекомендуется суммарная запись не более 100 символов
     #    Значения, в которых есть пробелы или запятые, необходимо заключить в тройные кавычки
+    #    Значения, заканчивающиеся двоеточием, необходимо заключить в тройные кавычки
     #    Значения в тройных кавычках рекомендуется делать либо единственными, либо последними
     #    Только для ключа первого уровня возможна многострочная запись единственного значения
     #    Для многострочной записи одного значения необходимы обрамляющие строки с тройными кавычками
